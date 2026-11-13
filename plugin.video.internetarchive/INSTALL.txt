@@ -1,0 +1,1 @@
+Kodi 21 Omega: Settings → Add-ons → Install from zip file → pick the downloaded zip (allow Unknown sources first if Kodi asks). Then Add-ons → My add-ons → Video add-ons → Internet Archive → Configure, and add your own Real-Debrid account if you use it.

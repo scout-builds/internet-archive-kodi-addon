@@ -1,0 +1,4 @@
+1.0.0
+- Browse + search Internet Archive collections
+- Direct playback of Archive video files
+- Optional Real-Debrid resolving with your own token
