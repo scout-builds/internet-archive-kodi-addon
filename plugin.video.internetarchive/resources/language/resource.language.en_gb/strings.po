@@ -1,0 +1,7 @@
+# Kodi language file
+msgid ""
+msgstr ""
+
+msgctxt "#30001"
+msgid "Real-Debrid API token (your own account)"
+msgstr "Real-Debrid API token (your own account)"
